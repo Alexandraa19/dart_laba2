@@ -1,5 +1,9 @@
-import 'package:laba2/laba2.dart' as laba2;
+import 'package:laba2/todo.dart';
 
-void main(List<String> arguments) {
-  print('Hello world: ${laba2.calculate()}!');
+void main() {
+  Todo task1 = Todo(id: 1, title: 'Купить продукты');
+  Todo task2 = Todo(id: 2, title: 'Сделать зарядку');
+  task1.complete();
+  print(task1);
+  print(task2);
 }
