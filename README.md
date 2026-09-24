@@ -1,2 +1,13 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Laba2 - консольное ToDo-приложение на Dart
+Консольное приложение для управления списком задач. Позволяет добавлять,
+просматривать, отмечать выполненными и удалять задачи.
+## Автор
+Имя: Александра
+Группа: исп-242 группа
+
+## Запуск
+
+1. Клонировать репозиторий:
+  
+   git clone https://github.com/Alexandraa19/dart_laba2.git
+
